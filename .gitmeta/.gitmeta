@@ -1,0 +1,31 @@
+commit QmXkYeb2chFuYCps6kM4UQWQWUFLPTxztX8LK8M3mj6Ruc
+Branch: HEAD
+Signed-off by: danimesq.eth (0xDDfC2e10702d8A781727A34D83B3bb3CA94a3E91)
+Signature: 5da4c6ace66ba5d17ecae041cb3d7bee2de9dac039a985b0f6c1584ad6f7a938767a4d7f6da6cffb198cb571d368383d6ee238bc43229481f2ae2e4a9506453300
+
+------------------------------
+
+Commit CID if including git's SHA1: Qmf5puwtGjUdHQ1YKAMG4Tccsuxw2xdGicMbnK9e5ngvCj
+Commit CID if containing only file hashes: QmQb6HPeqCF4hxVVcZsYtE26QpgBM9JUXi78hQ3jNtsdy5
+
+------------------------------
+
+.gitmeta version: r8
+Local folder: /media/daniella/B/git/danimesq/Sites/subdomains/at/'at.danimesq.com'
+Remote Name: origin
+Remote URL: https://github.com/danimesq/at.danimesq.com.git
+
+------------------------------
+
+chown -h 1000:1000 '.folderstamp1'
+chmod 0664 '.folderstamp1'
+/usr/bin/touch -hcmd "2024-09-17 14:50:47.5761316000 -0300" '.folderstamp1'
+/usr/bin/touch -hcad "2024-09-18 12:42:22.2487898000 -0300" '.folderstamp1'
+chown -h 1000:1000 '.folderstamp2'
+chmod 0664 '.folderstamp2'
+/usr/bin/touch -hcmd "2024-09-18 12:42:22.2577897000 -0300" '.folderstamp2'
+/usr/bin/touch -hcad "2024-09-18 14:14:53.5885956000 -0300" '.folderstamp2'
+chown -h 1000:1000 'index.html'
+chmod 0755 'index.html'
+/usr/bin/touch -hcmd "2024-09-18 14:06:44.1865028000 -0300" 'index.html'
+/usr/bin/touch -hcad "2024-09-18 14:06:46.5463950000 -0300" 'index.html'
